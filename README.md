@@ -1,2 +1,3 @@
 # vincentkcleung.github.io
-Project Website
+
+This project is created to showcase all data-related projects.
